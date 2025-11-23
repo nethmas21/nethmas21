@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nethma Weerasinghe</h1>
-<h3 align="center">IT Undergraduate | Aspiring Software Engineer | Passionate About Web, Mobile & Data</h3>
+<h3 align="center">IT Undergraduate • Exploring Data Science, Web & Mobile Technologies</h3>
 
 - 📫 How to reach me **nethmaweerasinghe@gmail.com**
 

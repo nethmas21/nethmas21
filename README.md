@@ -14,8 +14,8 @@ Passionate about building data-driven solutions using analytics, statistical mod
 
 * 🎓 Third-Year Information Technology Undergraduate specializing in Data Science
 * 📊 Interested in Data Science, Data Engineering, and Business Intelligence
-* 🛠️ Experienced with Python, R, SQL, Power BI, SQL Server, SSIS, and Web Technologies
-* 📈 Skilled in Statistical Analysis, Regression Modelling, Data Warehousing, ETL, and Dashboard Development
+* 🛠️ Experienced with Python, R, SQL, SQL Server, Power BI, Excel, MERN Stack, and Web Technologies
+* 📈 Skilled in Statistical Analysis, Regression Modelling, Data Warehousing, ETL, Dashboard Development, and Database Systems
 * 🌱 Continuously learning Machine Learning, Analytics, and Modern Data Technologies
 
 ---
@@ -37,7 +37,7 @@ Passionate about building data-driven solutions using analytics, statistical mod
 #### 📌 Kiridiwela Library Management System
 
 * Web-based library management and reservation system
-* Developed using PHP, MySQL, HTML, CSS, and JavaScript
+* Developed using MERN Stack, MySQL, JavaScript, and REST APIs
 
 ---
 
@@ -73,12 +73,24 @@ Passionate about building data-driven solutions using analytics, statistical mod
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
 </a>
 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
+</a>
+
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -89,8 +101,8 @@ Passionate about building data-driven solutions using analytics, statistical mod
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">

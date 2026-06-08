@@ -10,36 +10,49 @@ Passionate about building data-driven solutions using analytics, statistical mod
 
 ---
 
-### 👩‍💻 About Me
+👩‍💻 About Me
 
-* 🎓 Third-Year Information Technology Undergraduate specializing in Data Science
-* 📊 Interested in Data Science, Data Engineering, and Business Intelligence
-* 🛠️ Experienced with Python, R, SQL, SQL Server, Power BI, Excel, MERN Stack, and Web Technologies
-* 📈 Skilled in Statistical Analysis, Regression Modelling, Data Warehousing, ETL, Dashboard Development, and Database Systems
-* 🌱 Continuously learning Machine Learning, Analytics, and Modern Data Technologies
+🎓 Third-Year Information Technology Undergraduate specializing in Data Science at SLIIT
 
----
+📊 Interested in Data Science, Data Engineering, Business Intelligence, and Machine Learning
 
-### 🚀 Featured Projects
+📈 Skilled in Data Analysis, Statistical Modelling, Machine Learning, ETL Pipelines, Dashboard Development, and Database Systems
 
-#### 📌 Employee Performance Statistical Analysis
+🌱 Currently learning Advanced Analytics, Data Engineering, Machine Learning, and Cloud Technologies
 
-* Statistical modelling and predictive analytics project using R
-* Applied hypothesis testing, logistic regression, and multiple linear regression
-* Achieved **84.4% prediction accuracy** using Logistic Regression
+🚀 Passionate about solving real-world problems using data-driven approaches
 
-#### 📌 BikeShare Data Warehouse & BI Solution
+🚀 Featured Projects
+🌊 Sri Lankan Flood Risk Prediction Using Machine Learning
+Developed an end-to-end Machine Learning and Business Intelligence solution for flood risk prediction in Sri Lanka
+Performed Exploratory Data Analysis (EDA) on 25,000 flood-related records
+Built a Random Forest Classification model achieving 91.16% accuracy
+Identified key flood risk factors using feature importance analysis
+Developed an interactive Power BI dashboard for flood monitoring and analysis
 
-* End-to-end Data Warehouse and Business Intelligence solution
-* Built using SQL Server, SSIS, SSAS, OLAP, and Power BI
-* Implemented ETL pipelines, star schema design, and multidimensional analysis
+Technologies: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Power BI
 
-#### 📌 Kiridiwela Library Management System
+🚲 BikeShare Data Warehouse & Business Intelligence Solution
+Designed and implemented a complete Data Warehouse solution
+Built ETL pipelines using SQL Server Integration Services (SSIS)
+Developed OLAP cubes using SQL Server Analysis Services (SSAS)
+Created Power BI dashboards for business intelligence reporting
 
-* Web-based library management and reservation system
-* Developed using MERN Stack, MySQL, JavaScript, and REST APIs
+Technologies: SQL Server, SSIS, SSAS, Power BI, Data Warehousing
 
----
+📊 Employee Performance Statistical Analysis
+Applied statistical modelling and predictive analytics techniques
+Conducted hypothesis testing, regression analysis, and correlation analysis
+Achieved 84.4% prediction accuracy using Logistic Regression
+
+Technologies: R, Statistical Analysis, Predictive Modelling
+
+📚 Kiridiwela Library Management System
+Developed a full-stack library management and reservation platform
+Implemented inventory management and user management modules
+Developed REST APIs and integrated database operations
+
+Technologies: MERN Stack, MongoDB, JavaScript
 
 <h3 align="left">📫 Connect with me:</h3>
 
@@ -55,58 +68,63 @@ Passionate about building data-driven solutions using analytics, statistical mod
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
+## 🛠️ Languages and Tools
+
 <p align="left">
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45" height="45"/>
 
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="sqlserver" width="40" height="40"/>
-</a>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="45" height="45"/>
 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45"/>
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="45" height="45"/>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 
 </p>
+
+</p>
+
+📜 Certifications
+MongoDB Basics
+MongoDB Data Modeling Fundamentals
+MongoDB Schema Design Patterns
+MongoDB Aggregation Framework
+📈 Current Focus
+
+🔹 Machine Learning & Predictive Analytics
+
+🔹 Data Engineering & ETL Development
+
+🔹 Business Intelligence & Dashboard Development
+
+🔹 Data Warehousing & OLAP
+
+🔹 Real-World Data Science Projects
+
+⭐ Always eager to learn, collaborate, and build impactful data-driven solutions.
